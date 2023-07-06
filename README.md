@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahir Faysal Haque Dipto</h1>
 <h3 align="center">A dedicated student pursuing a Computer Science and Engineering degree at East West University. With a passion for web development and a strong desire to expand my skill set, I am taking proactive steps to enhance my knowledge in the field.</h3>
 
-<img align="right" alt="coding" width="400" src="https://iconscout.com/lottie/programmer-4375641">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dipto1971&label=Profile%20views&color=0e75b6&style=flat" alt="dipto1971" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dipto1971" alt="dipto1971" /></a> </p>
 
 - 🌱 I’m currently learning **NodeJs, MongoDB, DSA**
