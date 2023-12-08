@@ -9,11 +9,11 @@
   <div style="float: right; width: 50%;">
     <h3>Connect with me:</h3>
     <p>
-      <a href="https://www.facebook.com/dip.to.39545/" target="_blank">Facebook</a><br>
-      <a href="https://instagram.com/mahir_faysal_dipto" target="_blank">Instagram</a><br>
-      <a href="https://codeforces.com/profile/dipto71" target="_blank">Codeforces</a><br>
-      <a href="https://www.leetcode.com/dipto71" target="_blank">LeetCode</a><br>
-      <a href="https://www.linkedin.com/in/mahir-faysal-haque-dipto-6911a4245/" target "_blank"> LinkedIn </a><br>
+      <a href="https://www.facebook.com/dip.to.39545/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+      <a href="https://instagram.com/mahir_faysal_dipto" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+      <a href="https://codeforces.com/profile/dipto71" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" /></a>
+      <a href="https://www.leetcode.com/dipto71" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+      <a href="https://www.linkedin.com/in/mahir-faysal-haque-dipto-6911a4245/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
     </p>
 
     <h3>Languages and Tools:</h3>
