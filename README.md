@@ -13,7 +13,9 @@
       <a href="https://instagram.com/mahir_faysal_dipto" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
       <a href="https://codeforces.com/profile/dipto71" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" /></a>
       <a href="https://www.leetcode.com/dipto71" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-      <a href="https://www.linkedin.com/in/mahir-faysal-haque-dipto-6911a4245/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
+      <a href="https://www.linkedin.com/in/mahir-faysal-haque-dipto-6911a4245/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" />
+</a>
     </p>
 
 <h3>Languages and Tools:</h3>
