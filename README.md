@@ -16,7 +16,7 @@
       <a href="https://www.linkedin.com/in/mahir-faysal-haque-dipto-6911a4245/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
     </p>
 
-    <h3>Languages and Tools:</h3>
+<h3>Languages and Tools:</h3>
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
