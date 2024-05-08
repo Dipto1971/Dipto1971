@@ -48,9 +48,9 @@
 
 <!-- GitHub Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dipto1971&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=dipto1971&show_icons=true&locale=en" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dipto1971" alt="GitHub Streak" />
-  ### Visitor count
+</div>
+<div>
   <img src="https://profile-counter.glitch.me/vanshkapoor/count.svg" />
 </div>
