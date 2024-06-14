@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently studying CSE at East West University<br>I am looking to collaborate on MERN Projects<br>I am Currently Learning CSharp, DOTNet Framework and Xamarin<br>Ask me About MERN, NEXTjs, & CSharp.
+I am currently studying CSE at East West University<br>I am looking to collaborate on MERN Projects<br>I am Currently Learning CSharp, DOTNet Framework & NEXTjs<br>Ask me About NEXTjs, & CSharp.
 
 
 ## 🌐 Socials:
@@ -19,16 +19,12 @@ I am currently studying CSE at East West University<br>I am looking to collabora
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) 
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Dipto1971&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -40,5 +36,3 @@ I am currently studying CSE at East West University<br>I am looking to collabora
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Dipto1971&icon=6&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
