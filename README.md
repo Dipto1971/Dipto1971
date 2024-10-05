@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently studying CSE at East West University<br>I am looking to collaborate on MERN Projects<br>I am Currently Learning CSharp, DOTNet Framework & NEXTjs<br>Ask me About NEXTjs, & CSharp.
+I am currently studying CSE at East West University<br>Looking to collaborate on MERN Projects<br>Currently Learning CSharp, DOTNet Framework & NEXTjs<br>Ask me About NEXTjs, & CSharp.
 
 
 ## 🌐 Socials:
