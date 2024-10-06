@@ -27,8 +27,8 @@ I am currently studying CSE at East West University<br>Looking to collaborate on
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Dipto1971&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Dipto1971&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Dipto1971&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Dipto1971&theme=gotham&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dipto1971&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
