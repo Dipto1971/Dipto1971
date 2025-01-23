@@ -1,8 +1,9 @@
+# Mahir Faysal Haque Dipto
+### Software Developer
+Currently, I'm working on WebRTC, focusing on real-time communication technologies for the web.<br>I’m presently learning Go, Statistical Data Analysis<br>I’m looking to collaborate on WebRTC, NEXT.js projects<br>Ask me about WebRTC, MERN
 **<p align="left"> <img src="https://komarev.com/ghpvc/?username=dipto1971&label=Profile%20views&color=0e75b6&style=flat" alt="dipto1971" /> </p>**
 
-# About Me:
-Currently, I'm working on WebRTC, focusing on real-time communication technologies for the web.<br>I’m presently learning Go, Statistical Data Analysis<br>I’m looking to collaborate on WebRTC, NEXT.js projects<br>Ask me about WebRTC, MERN
-
+---
 ## Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/dip.to.39545/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mahir_faysal_dipto/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahir-faysal-haque-dipto-6911a4245/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23282140/mahir-faysal-dipto) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mahirdipto71) 
 
@@ -17,5 +18,3 @@ Currently, I'm working on WebRTC, focusing on real-time communication technologi
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) 
 ## Tools:
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=flat&labelColor=171717&logoColor=5cb85c)
-
----
