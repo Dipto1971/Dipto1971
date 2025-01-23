@@ -4,8 +4,6 @@
 ---
 Expertise in C#, WPF, and WinForms, complemented by two years of hands-on experience in `MERN stack development`. Professional backend developer, specialized in designing secure and scalable systems. Currently, I'm working on WebRTC, focusing on real-time communication technologies for the web.<br>I’m presently learning Go, Statistical Data Analysis<br>I’m looking to collaborate on WebRTC, NEXT.js projects<br>Ask me about WebRTC, MERN
 **<p align="left"> <img src="https://komarev.com/ghpvc/?username=dipto1971&label=Profile%20views&color=0e75b6&style=flat" alt="dipto1971" /> </p>**
-
----
 ## Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/dip.to.39545/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mahir_faysal_dipto/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahir-faysal-haque-dipto-6911a4245/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23282140/mahir-faysal-dipto) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mahirdipto71) 
 
